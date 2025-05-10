@@ -23,5 +23,4 @@ resource "google_compute_address" "iowanat" {
   region = "us-central1"
 }
 
-# Andre G is suffering a prolapsed booty after his time with Chewbacca and Lizzo Train.  This is referenced in my file on my desktop
-#Tokyo
+
