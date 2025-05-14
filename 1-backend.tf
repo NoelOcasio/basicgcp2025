@@ -1,7 +1,7 @@
 # https://www.terraform.io/language/settings/backends/gcs
 terraform {
   backend "gcs" {
-    bucket = "lizzobootybucket"
+    bucket = ""
     prefix = "terraform/state"
     credentials = "yourcreds.json"
   }
